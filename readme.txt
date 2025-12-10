@@ -45,23 +45,8 @@ If the answer is incorrect, the form validation will fail, display an error mess
 
 == Changelog ==
 
-= 1.4 =
-* Added robust fallback logic for hidden fields and answer fields.
-* Fixed undefined index warnings.
-* Automatically regenerates numbers on page reload and after failed submissions.
-
-= 1.3 =
-* Simplified number generation and validation.
-* Works with AJAX forms.
-* Compatible with hidden fields and HTML placeholders.
-
 = 1.0 =
 * Initial release.
-
-== Upgrade Notice ==
-
-= 1.4 =
-Improved stability and error handling. Make sure your hidden fields and HTML placeholders follow the recommended setup for best results.
 
 == License ==
 
